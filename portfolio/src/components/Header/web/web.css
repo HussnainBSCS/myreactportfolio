@@ -1,0 +1,37 @@
+.web 
+{
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+.web-option{
+    font-size: 15px;
+    margin-right: 16px;
+    font-weight: 700;
+    border-bottom: 1px solid purple;
+    transition: 0.9s;
+}
+.web-option:hover{
+    border-bottom: 1px solid white;
+}
+.web-option a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    padding: 20px;
+}
+.web-option a:hover{
+    padding-bottom: 10px;
+    
+}
+
+
+.option-icon{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    color: white;
+}
+.web-option:last-child{
+    margin-right: 0px;
+}

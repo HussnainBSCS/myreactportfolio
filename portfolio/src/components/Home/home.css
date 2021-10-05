@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+    /* background-image: linear-gradient(to right top, #171b1d, #2d383a, #485955, #6a7a6e, #949b86); */
+    /* background-color: #262626; */
+        /* background-color: #3AAFA9; */
+        background-color: #16151b;
+        color: #ffffff;
+
+
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+}
+
+
+@media only screen and (max-width:1024px){
+    .home{
+        width: 90%;
+    }
+    
+}
+@media only screen and (max-width:512px){
+    .home{
+        width: 100%;
+    }
+    
+
+}
