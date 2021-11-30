@@ -1,11 +1,14 @@
-import React from 'react';
+import React,{useEffect} from 'react';
+import Aos from 'aos';
+import "aos/dist/aos.css";
 import './project-card.css';
 
 
 const ProjectCard = ( {project}) => {
+
     return (
-        <div className="project-card">
-            <div className="project-info">
+        <div className="project-card" >
+            <div  className="project-info">
                 <label className="project-title">{project.title}</label>
                 <div className="project-links">
                     {project.demo && ( 

@@ -3,16 +3,18 @@ html{
     /* background-image: linear-gradient(to right top, #171b1d, #2d383a, #485955, #6a7a6e, #949b86); */
     /* background-color: #262626; */
         /* background-color: #3AAFA9; */
-        background-color: #16151b;
+        /* background-image: linear-gradient(to right, #ffffff, #ccccce, #9c9c9e, #6e6e72, #434448, #323438, #212529, #11171b, #121a1d, #131d20, #142021, #162322); */
+        /* background-image: linear-gradient(to right top, #e5e6e8, #a6adb1, #6a7879, #384740, #131908); */
+        background-color: #16151a;
+        /* background-color: #010103; */
         color: #ffffff;
-
-
 }
 .home{
     display: flex;
     flex-direction: column;
     width: 90%;
     margin: auto;
+    position: relative;
 }
 
 

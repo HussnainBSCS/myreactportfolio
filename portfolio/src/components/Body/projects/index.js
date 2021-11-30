@@ -8,7 +8,7 @@ import './projects.css'
 function Projects() {
     const data=ProjectData;
     return (
-        <div className="projects" id="project">
+        <div className="projects" id="project" >
             <Separator/><br/><br/>
             <label className="section-title">Projects</label>
             <div>

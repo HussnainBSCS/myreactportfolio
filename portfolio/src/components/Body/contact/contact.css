@@ -31,9 +31,11 @@
     justify-content: center;
     align-items: center;
     border-radius: 4px;
+    transition: 0.5s;
 }
 .download:hover{
     background-color: #262626;
+    
 }
 .download img{
     padding-right: 10px;
@@ -42,7 +44,12 @@
 .download a{
     text-decoration: none;
     color: black;
+    transition: 0.8s;
     
+}
+.download a:hover{
+    color: white;
+
 }
 @media only screen and (max-width:720px){
     .contact-container{

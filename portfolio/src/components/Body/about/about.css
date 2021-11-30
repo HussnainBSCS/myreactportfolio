@@ -94,8 +94,18 @@ margin-top: 90px;
     .info-name{
         font-size: 26px;
     }
+    .my-photo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 362px;
+        margin-top: 90px;
+    }
     .my-photo img{
         margin-top: -79px;
+        height: 150px;
+        width: 150px;
 
     }
 }

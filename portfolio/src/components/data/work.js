@@ -10,8 +10,8 @@ export const WorkData =[
         Work:"I worked as a Leader of Superior University E-Gamming Society.Where I have performed duties like providing staff members,creating and managing google forms etc",
     },
     {
-        company:"Google",
-        designation:"SOftware Enginer",
+        company:"Sky Call Center",
+        designation:"",
         datejoining:"2-2-2018",
         dateEnd:"2-2-2022",
         companyLogo:"images/work.png",

@@ -5,12 +5,16 @@
     position: relative;
     align-items: center;
     transition: 0.8s;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    
 }
 .menu{
     display: flex;
     flex: 1;
     justify-content: flex-end;
     transition: 0.8s;
+    
 }
 .menu-icon{
     font-size: 24px;
@@ -36,6 +40,7 @@
    
     .mob-menu{
         display: flex;
+
     }
     .web-menu{
         display: none;
@@ -43,6 +48,12 @@
     .logo{
         font-size: 25px;
         margin-left: 20px;
+    }
+    .logo{
+        display: none;
+    }
+    .menu{
+        margin-top: 10px;
     }
 
 }

@@ -19,6 +19,7 @@ export const SkillsData=[
                 icon:<i class="devicon-bootstrap-plain colored"></i>
             },
             
+            
 
         ]
     },
@@ -36,5 +37,20 @@ export const SkillsData=[
             },
 
         ]
-    }
+    },
+    {
+        type:"TOOLS",
+        list:[
+            {
+                name:"Photoshop",
+                icon:<i class="devicon-photoshop-plain colored"></i>
+            },
+            {
+                name:"Figma",
+                icon:<i class="devicon-figma-plain colored"></i>
+            },
+         
+
+        ]
+    },
 ]
