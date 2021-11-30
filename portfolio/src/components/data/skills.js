@@ -18,6 +18,10 @@ export const SkillsData=[
                 name:"Bootstrap",
                 icon:<i class="devicon-bootstrap-plain colored"></i>
             },
+            {
+                name:"Angular",
+                icon:<i class="devicon-angularjs-plain"></i>
+            },
             
             
 

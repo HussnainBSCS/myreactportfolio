@@ -18,7 +18,7 @@ function About() {
                      typeSpeed={70}
                      deleteSpeed={50}
                      delaySpeed={1000}
-                     words={['HTML','CSS','JAVASCRIPT','BOOTSTRAP','REACTJS']}
+                     words={['HTML','CSS','JAVASCRIPT','BOOTSTRAP','REACTJS','ANGULAR']}
                     
                     />  
                     </span>
